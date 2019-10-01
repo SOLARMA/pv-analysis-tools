@@ -1,8 +1,14 @@
+# Sample data from Danfoss Comlynx Weblogger
+
 (2019-09-26 07:14 CEST)
 
-./solpev-tunnel.sh
+Connect to SOLPEV weblogger through a SSH tunnel
 
-Browse <http://localhost:5080/>
+```bash
+solpev-tunnel.sh
+```
+
+Browse <http://localhost:5080/> to access the weblogger web interface
 
 Click "Login"
 
@@ -180,7 +186,5 @@ then click "Download"
 > Il download dei dati avrà inizio tra qualche secondo.
 
 Result: File "events.txt" (223 KB) downloaded
-
-TODO
 
 <!-- EOF -->
