@@ -64,7 +64,7 @@ Select
 
 then click "Download"
 
-Result: File "summary.txt" (17 KB) downloaded
+Result: File [`summary.txt`](summary.txt) (17 KB) downloaded
 
 
 #### Download Dettagli inverter
@@ -142,7 +142,7 @@ then click "Download"
 >
 > Il download dei dati avrà inizio tra qualche secondo.
 
-Result: File "details.txt" (835 KB) downloaded
+Result: File [`details.txt`](details.txt) (835 KB) downloaded
 
 
 #### Download Eventi impianto
@@ -185,6 +185,6 @@ then click "Download"
 >
 > Il download dei dati avrà inizio tra qualche secondo.
 
-Result: File "events.txt" (223 KB) downloaded
+Result: File [`events.txt`](events.txt) (223 KB) downloaded
 
 <!-- EOF -->
